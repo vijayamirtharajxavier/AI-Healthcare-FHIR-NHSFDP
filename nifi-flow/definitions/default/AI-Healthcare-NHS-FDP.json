@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1744889102577,
+    "description" : "NHS FDP Project using NiFi v2.0.0",
+    "identifier" : "AI-Healthcare-NHS-FDP",
+    "lastModifiedTimestamp" : 1744889102577,
+    "name" : "AI-Healthcare-NHS-FDP",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
