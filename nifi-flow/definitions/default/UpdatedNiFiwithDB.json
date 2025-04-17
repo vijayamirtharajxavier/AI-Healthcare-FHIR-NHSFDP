@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1744910154544,
+    "description" : "",
+    "identifier" : "UpdatedNiFiwithDB",
+    "lastModifiedTimestamp" : 1744910154544,
+    "name" : "UpdatedNiFiwithDB",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
