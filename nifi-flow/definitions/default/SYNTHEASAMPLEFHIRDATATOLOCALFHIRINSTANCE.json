@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1745245005067,
+    "description" : "Insert FHIR sample data from Synthea output json to FHIR Local Docker Instance",
+    "identifier" : "SYNTHEASAMPLEFHIRDATATOLOCALFHIRINSTANCE",
+    "lastModifiedTimestamp" : 1745245005067,
+    "name" : "SYNTHEA_SAMPLE_FHIR_DATA_TO_LOCAL_FHIR_INSTANCE",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
