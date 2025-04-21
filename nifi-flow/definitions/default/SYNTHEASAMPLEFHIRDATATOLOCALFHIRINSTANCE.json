@@ -154,6 +154,7 @@
         "Keep Source File" : "false",
         "Minimum File Age" : "0 sec",
         "Polling Interval" : "0 sec",
+        "Input Directory" : "/data/incoming",
         "Batch Size" : "10",
         "Minimum File Size" : "0 B",
         "Ignore Hidden Files" : "true",
